@@ -1,0 +1,204 @@
+{
+  "Table": {
+    "includes\\storsimple-ova-install-update-via-portal.md.09f19e73e2fd5e685ebc664ff52572d7aa01d0ca.HT": {
+      "SourceFilename": "includes\\storsimple-ova-install-update-via-portal.md",
+      "XliffHash": "09f19e73e2fd5e685ebc664ff52572d7aa01d0ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\5c3e23660ff50f5ed8629e9367810f93d7571821.d1b6304f521d9091200396949a1838c01fe014ba.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\batch\\batch-visual-studio-templates.md.6020ec7723d8198672f1c55abbfb7462eb35a54c.HT": {
+      "SourceFilename": "articles\\batch\\batch-visual-studio-templates.md",
+      "XliffHash": "6020ec7723d8198672f1c55abbfb7462eb35a54c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\b48bc09d25740aac672e17017a9ac1596f659280.5fcb97768516a2ae0794c7eea088a18c5886e680.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\vs-azure-tools-docker-add-docker-support.md.fa2108028426a084476a90e1e82afddf7ec2143d.HT": {
+      "SourceFilename": "includes\\vs-azure-tools-docker-add-docker-support.md",
+      "XliffHash": "fa2108028426a084476a90e1e82afddf7ec2143d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\374f052498b47268cfc04de042cf4a9d93133dd9.347bb71769c4897e79da5d96c27ab64c88ccf620.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\sql-database-service-tiers-table-elastic-db-pools.md.461707c768c76b3c26b9bea34e76224367f35f2e.HT": {
+      "SourceFilename": "includes\\sql-database-service-tiers-table-elastic-db-pools.md",
+      "XliffHash": "461707c768c76b3c26b9bea34e76224367f35f2e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\563c0c81479371a549b78294bd6c83b8f9c1c941.ae9ae0c4e446f3878e7c7ff47e7aac942e181540.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\backup-deployment-models.md.a9eb0d1fcdd87b47320d7ee8c8c59688ea693576.HT": {
+      "SourceFilename": "includes\\backup-deployment-models.md",
+      "XliffHash": "a9eb0d1fcdd87b47320d7ee8c8c59688ea693576",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\e5ca81e2131ae5f93e4ad8d6fb8afaff33b04123.1020818d0828a8262a6f2003de1c710963ae6989.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\load-balancer-get-started-internet-arm-selectors-include.md.e560e2b29ad6e1088158ba1b2fd7b7cc76640e2c.HT": {
+      "SourceFilename": "includes\\load-balancer-get-started-internet-arm-selectors-include.md",
+      "XliffHash": "e560e2b29ad6e1088158ba1b2fd7b7cc76640e2c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\9f3ac2010c69995634d3da171149406d0ec981a1.eae79273298a66068fa565fdfa3d3b2135f80b35.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\storsimple-install-update3-hotfix.md.ee8a01b544248da723fbd4841b7f9a000a1acf8c.HT": {
+      "SourceFilename": "includes\\storsimple-install-update3-hotfix.md",
+      "XliffHash": "ee8a01b544248da723fbd4841b7f9a000a1acf8c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\76c81c24f1965e7db6a3d99e50163b4acb055bd9.373d1b33d72006be0fa56399862799b1c971d512.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\app-service-logic\\app-service-logic-enterprise-integration-overview.md.1f9d55043aa0d3700cabd7198efd98c90fc982a6.HT": {
+      "SourceFilename": "articles\\app-service-logic\\app-service-logic-enterprise-integration-overview.md",
+      "XliffHash": "1f9d55043aa0d3700cabd7198efd98c90fc982a6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\233ca8ed133bb4092950d64637c4285951820c06.43213c8aa777934c891668a462581dcbf78ee24f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\event-hubs-create-event-hub.md.6eb57b0aac224f67eb6ccb66b7206da2c707cdef.HT": {
+      "SourceFilename": "includes\\event-hubs-create-event-hub.md",
+      "XliffHash": "6eb57b0aac224f67eb6ccb66b7206da2c707cdef",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\d0a6150986c5602462392a257e93f9e180c3731c.ff97e8be15b8ed79eb67238418a8de78a92767de.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\virtual-networks-create-vnetpeering-scenario-crosssub-include.md.aba9df4a3d60282a74dd3bf0c269d2843f2b2d84.HT": {
+      "SourceFilename": "includes\\virtual-networks-create-vnetpeering-scenario-crosssub-include.md",
+      "XliffHash": "aba9df4a3d60282a74dd3bf0c269d2843f2b2d84",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\bf3cc46254c646246ff0dca97670a63e0dafeae3.e9bddc68660e064465f644642f268a255b6f9bba.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\virtual-networks-create-vnetpeering-scenario-transit-include.md.0e1c3fdb7b6725f6eb59f0dbe5112776c375fe20.HT": {
+      "SourceFilename": "includes\\virtual-networks-create-vnetpeering-scenario-transit-include.md",
+      "XliffHash": "0e1c3fdb7b6725f6eb59f0dbe5112776c375fe20",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\2c1b0e1512b5a086b2ad63442e9f4f19ea5ec5ab.daeb39a0a35878ce0d45da35ac24ef4f205da153.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\app-service-logic\\app-service-logic-enterprise-integration-schemas.md.3ab016209b1111bba0ea2f593cc434d3e51db5e6.HT": {
+      "SourceFilename": "articles\\app-service-logic\\app-service-logic-enterprise-integration-schemas.md",
+      "XliffHash": "3ab016209b1111bba0ea2f593cc434d3e51db5e6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\e4641891e9cdef54b02b96a427a4b8e6d5128e01.478d01c57ea6d89a25842da1d651d9a97ebc0395.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\batch\\batch-job-prep-release.md.da158d39778d110edec4ce392e36e3071fc60715.HT": {
+      "SourceFilename": "articles\\batch\\batch-job-prep-release.md",
+      "XliffHash": "da158d39778d110edec4ce392e36e3071fc60715",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\d34db439626f4db0ade02d75aa35f0cad468ffc1.962653fefede8e1008dd835b6e42899f12c366c4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\site-recovery\\site-recovery-understanding-site-to-azure-protection.md.761a69447f38209f2891b96250d2846a23cc87f7.HT": {
+      "SourceFilename": "articles\\site-recovery\\site-recovery-understanding-site-to-azure-protection.md",
+      "XliffHash": "761a69447f38209f2891b96250d2846a23cc87f7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\5c38d34c541b436ad725f38f9f587ea6a83e626e.718816f9fc35669f7d5f6b21dd66c7db1b3eafdb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "articles\\site-recovery\\site-recovery-support-matrix.md.e8cdda18449b2220d5ee977a396e017debaa143d.HT": {
+      "SourceFilename": "articles\\site-recovery\\site-recovery-support-matrix.md",
+      "XliffHash": "e8cdda18449b2220d5ee977a396e017debaa143d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\4a7aeb3de87cbd1fe812350ce3d2315613c279c2.ae8160ee2d9db8bb9e66faa0ec87983fe3bf7e63.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\service-bus-event-hubs-get-started-receive-ephcs.md.0284271d2fd95685d66b370f36bc48d2c27de69c.HT": {
+      "SourceFilename": "includes\\service-bus-event-hubs-get-started-receive-ephcs.md",
+      "XliffHash": "0284271d2fd95685d66b370f36bc48d2c27de69c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\d977007ff909a5e86827d7a033e5e99ba30b40cc.419c45a0250bdbc72ab8fae6f64b002043de8bdc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\functions-bindings-intro.md.c146ab39a14719fd6d25dd995ead7f20f01b2957.HT": {
+      "SourceFilename": "includes\\functions-bindings-intro.md",
+      "XliffHash": "c146ab39a14719fd6d25dd995ead7f20f01b2957",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\da4eef623d1925e2ab3b02b9cecc09b74138ba21.1bca169c7a02528f93745a71542e2dc63bb424a8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\securityrx.md.5d89e39bb15ce794b96430c9476c5791b1ccde3d.HT": {
+      "SourceFilename": "includes\\securityrx.md",
+      "XliffHash": "5d89e39bb15ce794b96430c9476c5791b1ccde3d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\321af137cdba75ae022d4ec9bc6f9d8358a56931.9aef5ae9b281b13e0876c3d31226937d56481c22.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\service-bus-event-hubs-get-started-send-csharp.md.7b5eff9f24c6128c714e7f2423b092342811c203.HT": {
+      "SourceFilename": "includes\\service-bus-event-hubs-get-started-send-csharp.md",
+      "XliffHash": "7b5eff9f24c6128c714e7f2423b092342811c203",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\47f2163945796353fe3f93f6dbf5c159175f044e.1b7933b46205159db6b16005dffabf1d0bf56ca1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "includes\\virtual-networks-create-vnetpeering-scenario-asmtoarm-include.md.41d8797a3b68d3a186c52cd0cc43bd2891382020.HT": {
+      "SourceFilename": "includes\\virtual-networks-create-vnetpeering-scenario-asmtoarm-include.md",
+      "XliffHash": "41d8797a3b68d3a186c52cd0cc43bd2891382020",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\azure-content-dede-pr\\master\\c312e6d218cd13b31af5c243b26c25439d78be86.1cfc555b64b2820a5b36378e523e7fce771452a8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
+}
