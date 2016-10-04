@@ -1,29 +1,34 @@
-{
-   "filters":[
-    {
-         "files":[
-            "articles/app-service-logic/*.md",
-            "articles/batch/*.md",
-            "articles/connectors/*.md",
-            "articles/dns/*.md",
-            "articles/power-appse/*.md",
-            "articles/site-recovery/*.md",
-            "includes/*.md"
-         ],
-         "priorities":[
-            {
-               "priority":"NotP1",
-               "locales":[
-                  "de-de"
-               ],
-               "type": "HT"
-            }
-         ]
-      }
-   ],
-  "includeDependencies": true,
-  "autoPush": false,
-  "xliffVersion": "1.2",
-  "translationSysFileDestination": "HandbackRepo"
+{  
+   "filters":[  
+      {  
+         "files":[  
+            "articles/app-service-logic/*.md",
+            "articles/batch/*.md",
+            "articles/connectors/*.md",
+            "articles/dns/*.md",
+            "articles/power-appse/*.md",
+            "articles/site-recovery/*.md",
+            "includes/*.md"
+         ],
+         "priorities":[  
+            {  
+               "priority":"NotP1",
+               "locales":[  
+                  "ru-ru"
+               ],
+               "type":"HT"
+            }
+         ]
+      }
+   ],
+   "includeDependencies":true,
+   "autoPush":false,
+   "xliffVersion":"1.2",
+   "translationSysFileDestination":"HandbackRepo",
+   "markdownTransformerOptions":{  
+      "trimBoundingPhTags":false,
+      "mergeAdjacentPhTags":false,
+      "lockBackslashEscapeChars":false,
+      "lockAtSign":true
+   }
 }
-
